@@ -1,0 +1,9 @@
+{
+  "name": "the-method",
+  "version": "0.1.0",
+  "description": "Turns a loose description of a goal into a grounded Method for that kind of problem, applied as a concrete Plan to your case.",
+  "author": {
+    "name": "Anton Vdovichenko"
+  },
+  "license": "MIT"
+}
